@@ -1,3 +1,3 @@
 # EightTilesPuzzleSolver
 
-![Alt text](/images/tilepuzzle.jpg?raw=true "Optional Title")
+![Alt text](/images/tilepuzzle.JPG?raw=true "Optional Title")
